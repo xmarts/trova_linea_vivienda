@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_trova_venta_trova_venta,trova_venta.trova_venta,model_trova_venta_trova_venta,,1,0,0,0
